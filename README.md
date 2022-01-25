@@ -49,11 +49,11 @@ Há movimentações de cunho sigiloso, nas quais não é possível identificar o
 
 ### G – É possível identificar o Órgão do portador do CPGF?
 
-Após uma inspeção no arquivo .csv de prestação de contas de janeiro de 2021, pode-se dizer que é possível identificar o Órgão do portador do CPGF em todas as movimentações, pois mesmo as sigilosas puderam ter seus Órgãos identificados.
+Após uma inspeção no arquivo .csv de prestação de contas de Outubro de 2021, pode-se dizer que é possível identificar o Órgão do portador do CPGF em todas as movimentações, pois mesmo as sigilosas puderam ter seus Órgãos identificados.
 
 ### H - Qual o nome do Órgão cujo código é 20402?
 
-Por uma simples pesquisa no arquivo .csv de Janeiro de 2021 (ctrl + F), verifica-se que o nome do Órgão cujo código é 20402 é Agência Espacial Brasileira.
+Por uma simples pesquisa no arquivo .csv de Outubro de 2021 (ctrl + F), verifica-se que o nome do Órgão cujo código é 20402 é Agência Espacial Brasileira.
 
 ### I - É possível identificar o Nome e Documento (CNPJ) dos favorecidos pela utilização do CPGF?
 
@@ -61,7 +61,7 @@ Por uma simples pesquisa no arquivo .csv de Janeiro de 2021 (ctrl + F), verifica
 
 ### J – É possível identificar a data e o valor das movimentações financeiras do CPGF, em todas as movimentações? Ou há movimentações onde não é possível identificar as datas e ou valores?
 
-Após inspeção no arquivo .csv de janeiro de 2021, pode-se dizer que a data só é visível em movimentações não-sigilosas. Já o valor pode ser visto para todas as movimentações, incluindo as sigilosas.
+Após inspeção no arquivo .csv de Outubro de 2021, pode-se dizer que a data só é visível em movimentações não-sigilosas. Já o valor pode ser visto para todas as movimentações, incluindo as sigilosas.
 
 ### K (código) – Qual a soma total das movimentações utilizando o CPGF?
 
